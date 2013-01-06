@@ -1,0 +1,12 @@
+//---スプレッドシート関係---
+<sheetKey>:0AqZvlr1alDoFdFdTMGswNjhRTE5zenBxSjRvX05RM2c
+//Googleアカウント
+<email>:google@gmail.com
+<password>:pa$$w0rd
+//mixiアカウント
+<mixiEmail>:ur@mixi.email
+<mixiPassword>:password
+//---本部・支部の名称設定---
+<本部>:溥(ぶー)杏本部
+<支部>:
+<支部>:
